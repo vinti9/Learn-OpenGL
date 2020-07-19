@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/PacktPublishing/Learn-OpenGL)
+
 # Learn OpenGL
 
 <a href="https://www.packtpub.com/game-development/learn-opengl?utm_source=github&utm_medium=repository&utm_campaign=9781789340365"><img src="https://www.packtpub.com/sites/default/files/B11259.png" alt="Learn OpenGL" height="256px" align="right"></a>
